@@ -7,7 +7,6 @@
 - 팀원: 김민성(팀장), 윤다미, 윤지연, 이수진
 - Github 링크: https://github.com/codestates/beb-03-project3-BPM
 - Discord 링크: [Team communication discord](https://discord.gg/xE8vx5jk) / [BPM Community discord](https://discord.gg/TH8UYGja)
-- 배포 링크: [better participation in music](https://www.betterparticipationmusic.cf/)
 
 ## 프로젝트 소개
 ### 1. 📔 Story of Better Participation in Music(BPM)
